@@ -1,7 +1,13 @@
 pytorch
-torchvision
-scipy
 configargparse
 progress
-json_tricks
-Cython 
+json_tricks 
+EasyDict==1.7
+opencv-python==3.4.1.15
+Cython
+scipy
+pandas
+pyyaml
+scikit-image
+tensorboardX>=1.2
+torchvision
